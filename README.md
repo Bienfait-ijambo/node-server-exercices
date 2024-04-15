@@ -1,1 +1,10 @@
-# node-server-exercices
+
+
+
+## VUE_NODE EXERCICE
+
+Steps to run this project:
+
+1. Run `npm i` command
+3. Run `npm run start` command
+
