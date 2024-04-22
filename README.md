@@ -18,4 +18,4 @@ Steps to run this project:
 
 ### 2nd Exercices
 
-`git clone `
+`git clone https://github.com/Bienfait-ijambo/node-server-exercices/tree/post-api `
