@@ -45,7 +45,7 @@ app.post('/posts', function (req, res) {
 
   const newData=[...posts.data]
   newData.push({
-    postId:lastItem+1,
+    postId:lastItem+2,
     title:req.body?.title,
     content:req.body?.content,
   })
